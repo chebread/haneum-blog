@@ -9,4 +9,4 @@ This is my blog.
 - State management can be done using the `render()` function of each component.
 
 ## License
-MIT License &copy; 2022-2025 Cha Haneum
+MIT License &copy; 2022-2026 Cha Haneum
